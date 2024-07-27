@@ -1,0 +1,20 @@
+{
+  "effect.awakened_silverfish.normal":"Normal",
+  "effect.awakened_silverfish.magic":"Magic",
+  "effect.awakened_silverfish.rare":"Rare",
+  "effect.awakened_silverfish.unique":"Unique",
+  "effect.awakened_silverfish.immortal":"Immortal",
+  "effect.awakened_silverfish.death_explosion":"Death Explosion",
+  "effect.awakened_silverfish.death_reproduce":"Death Reproduce",
+  "effect.awakened_silverfish.sacrifice":"Sacrifice",
+  "effect.awakened_silverfish.mirror":"Mirror",
+  "effect.awakened_silverfish.life_regeneration":"Life Regeneration",
+  "effect.awakened_silverfish.sentinel":"Sentinel",
+  "effect.awakened_silverfish.giant_elephant":"Giant Elephant",
+  "effect.awakened_silverfish.assassin":"Assassin",
+  "effect.awakened_silverfish.life_steal":"Life Steal",
+  "effect.awakened_silverfish.fast_aura":"Fast Aura",
+  "effect.awakened_silverfish.life_regeneration_aura":"Life Regeneration Aura",
+  "effect.awakened_silverfish.crit_aura":"Crit Aura",
+  "effect.awakened_silverfish.damage_aura":"Damage Aura"
+}

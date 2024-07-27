@@ -1,0 +1,22 @@
+{
+  "effect.awakened_silverfish.normal":"普通的",
+  "effect.awakened_silverfish.magic":"魔法的",
+  "effect.awakened_silverfish.rare":"稀有的",
+  "effect.awakened_silverfish.unique":"传奇的",
+
+  "effect.awakened_silverfish.immortal":"死亡免疫",
+
+  "effect.awakened_silverfish.death_explosion":"死亡爆炸",
+  "effect.awakened_silverfish.death_reproduce":"死亡分裂",
+  "effect.awakened_silverfish.sacrifice":"牺牲者",
+  "effect.awakened_silverfish.mirror":"镜像",
+  "effect.awakened_silverfish.life_regeneration":"生命回复",
+  "effect.awakened_silverfish.sentinel":"哨兵",
+  "effect.awakened_silverfish.giant_elephant":"巨象",
+  "effect.awakened_silverfish.assassin":"刺客",
+  "effect.awakened_silverfish.life_steal":"生命偷取",
+  "effect.awakened_silverfish.fast_aura":"移速光环",
+  "effect.awakened_silverfish.life_regeneration_aura":"生命恢复光环",
+  "effect.awakened_silverfish.crit_aura":"暴击和暴击伤害提高光环",
+  "effect.awakened_silverfish.damage_aura":"伤害提高光环"
+}
